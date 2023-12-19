@@ -1,0 +1,1 @@
+A simple scorekeeper app is a beginner-friendly project that can track scores and fouls in a match between two teams. It’s built with Android Kotlin. Additionally, a version has been created with Android Java.
