@@ -1,7 +1,7 @@
 A simple scorekeeper app is a beginner-friendly project that can track scores and fouls in a match between two teams. It’s built with Jetpack Compose. 
 
 Other versions
-* [Android Java](https://github.com/Donaboyev/ScorekeeperAppAndroidKotlin)
+* [Android Java](https://github.com/Donaboyev/ScorekeeperAppAndroidJava)
 * [Android Kotlin](https://github.com/Donaboyev/ScorekeeperAppAndroidKotlin)
 
 
